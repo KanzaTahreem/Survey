@@ -1,6 +1,6 @@
 # Survey Form
 
-> The survey form is build according to the instructions from [freeCodeCamp](https://www.freecodecamp.org/learn). For more information, visit [Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+> The survey form is build according to the instructions from [freeCodeCamp](https://www.freecodecamp.org/learn). For more information, visit [Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
 ## Built With
 
